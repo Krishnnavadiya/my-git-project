@@ -8,3 +8,5 @@ print("git commit -m 'Update script with learning message'");
 
 print("git add .");
 print("git commit -m 'Add greet utility function'");
+
+print("git commit -am Improve greet output formatting'");
