@@ -6,5 +6,5 @@ print("git commit -m 'Add initial hello world script'");
 print("git add Main.py");
 print("git commit -m 'Update script with learning message'");
 
-def greet(name):
-    return f"Hello, {name}"
+print("git add .");
+print("git commit -m 'Add greet utility function'");
