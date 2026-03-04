@@ -1,3 +1,7 @@
+def greet():
+    print("Hello from feature branch")
+
+greet()
 def greet(feature):
     return f"Hello, {feature}!"
 // This function takes a feature name as input and returns a greeting message.
