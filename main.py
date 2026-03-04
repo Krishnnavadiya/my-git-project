@@ -10,3 +10,6 @@ print("git add .");
 print("git commit -m 'Add greet utility function'");
 
 print("git commit -am Improve greet output formatting'");
+
+print("Git collaboration practice!")
+print("Updated on main branch")
